@@ -47,7 +47,7 @@ You will get an interactive prompt where you'll specify the match number that yo
 
 ##### Figure 1. Terminal Output
 
-![Figure 1](images/terminal_output.png)
+![Figure 1](Screen%20Shot%201444-04-11%20at%2012.32.41%20PM.png)
 
 After that, you can let the terminal run in the background and continue your work. The code will send you notifications on every configured event like after every over, wicket, innings, batsman milestone, batting team milestone, etc. See [Settings](#settings) section to customize your notification settings.
 
