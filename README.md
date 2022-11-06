@@ -6,7 +6,7 @@ Following a live cricket match while working on your computer could be challengi
 
 ### Notes
 
-  1. This script was developed and tested only on Windows 10, Python v3.7.9.
+  1. This script was developed and tested only on Windows 10, Python v3.7.9 & mac os , v3.8.8 
 
   2. The live scores are fetched from http://static.cricinfo.com/rss/livescores.xml. The scores are generally fast and reliable from this source. But sometimes, other sources like cricbuzz might be faster by a ball or two.
 
